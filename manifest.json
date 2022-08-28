@@ -4,11 +4,11 @@
     "name": "TWP - Translate Web Pages",
     "description": "__MSG_extensionDescription__",
     "version": "9.6",
-    "homepage_url": "https://github.com/FilipePS/Traduzir-paginas-web",
+    "homepage_url": "https://github.com/Guest126/Traduzir-paginas-web-custom",
 
     "browser_specific_settings": {
         "gecko": {
-            "id": "{036a55b4-5e72-4d05-a06c-cba2dfcc134a}",
+            "id": "{0b8e907e-f4c7-4317-9c82-9ee41c422656}",
             "strict_min_version": "63.0"
         }
     },
@@ -75,10 +75,7 @@
         "storage",
         "activeTab",
         "contextMenus",
-        "webRequest"
-    ],
-
-    "optional_permissions": [
+        "webRequest",
         "webNavigation"
     ],
 
